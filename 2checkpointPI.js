@@ -12,22 +12,22 @@ function menu(prato, tempoInserido){
         case 'macarrao' :
             tempoPadrao = 8;
             resposta(tempoPadrao, tempoInserido);
-        break;  //Callback
+        break;
     
         case 'carne' :
             tempoPadrao = 15;
             resposta(tempoPadrao, tempoInserido);
-        break;  //Callback
+        break;
 
         case 'feijao' :
             tempoPadrao = 12;
             resposta(tempoPadrao, tempoInserido);
-        break;  //Callback
+        break;
 
         case 'brigadeiro' :
             tempoPadrao = 8;
             resposta(tempoPadrao, tempoInserido);
-        break;  //Callback 
+        break;
 
     default:
         console.log('Prato inexistente!');
