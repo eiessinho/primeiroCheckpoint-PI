@@ -1,11 +1,9 @@
 # primeiroCheckpoint-PI
 Resolução do primeiro checkpoint de Programação Imperativa
 
-Alunos
+Alunos - Turma 07
 - Elysson Andrade
 - Ivan Felipe
 - Everton Garcia
 - Alexander Bandeira
 - Alisson Bittencourt
-
-Turma 07
