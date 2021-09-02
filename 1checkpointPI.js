@@ -1,4 +1,4 @@
-/* Microondas */
+/* Microondas  */
 
 let menuComidas = ['Pipoca', 'Macarrão', 'Carne', 'Feijão', 'Brigadeiro']
 let tempoPreparo = [10, 8, 15, 12, 8]
