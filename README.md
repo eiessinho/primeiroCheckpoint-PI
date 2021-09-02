@@ -8,4 +8,4 @@ Alunos
 - Alexander Bandeira
 - Alisson Bittencourt
 
-Turma 07 | 02/09/2021
+Turma 07
